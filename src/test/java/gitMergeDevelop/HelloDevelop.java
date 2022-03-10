@@ -6,5 +6,8 @@ public class HelloDevelop {
 		String develop="Hello Development Branch";
 		System.out.println(develop);
 	}
-
+public void m1() {
+	String developerPosition="Jr";
+	System.out.println(developerPosition);
+}
 }
