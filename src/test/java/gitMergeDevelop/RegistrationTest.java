@@ -2,6 +2,7 @@ package gitMergeDevelop;
 
 public class RegistrationTest {
 public void getRegPage() {
-	System.out.println("Testing");
+	String message="adding this line";
+	System.out.println(message);
 }
 }
